@@ -17,6 +17,9 @@ Este repositório contém informações sobre os principais algoritmos de Machin
 | Análise de Componentes Principais (PCA) | Não supervisionado (Redução de Dimensionalidade) | Processamento de imagens, compressão de dados |
 | Redes Neurais Artificiais (RNA) | Supervisionado (Deep Learning) | Reconhecimento de voz, carros autônomos |
 
+## 📚 Referências  
+- Tabela adaptada de: [LinkedIn - Publicação Salva](https://www.linkedin.com/feed/saved/)  
+ 
 ## 🚀 Contribuições
 
 Se você deseja adicionar mais algoritmos ou exemplos práticos, sinta-se à vontade para contribuir!
