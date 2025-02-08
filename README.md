@@ -2,7 +2,7 @@
 
 Este repositório contém informações sobre os principais algoritmos de Machine Learning, suas aplicações e implementações.
 
-![Descrição da imagem](https://github.com/profamar/Machine-Learning-Algorithms/blob/master/Design%20sem%20nome%20(11).pnghttps://github.com/profamar/Machine-Learning-Algorithms/blob/master/Design%20sem%20nome%20(11).png)
+![Descrição da imagem](https://github.com/profamar/Machine-Learning-Algorithms/blob/master/Design%20sem%20nome%20(11).png)
 
 
 ## 📊 Tabela Comparativa dos Algoritmos
