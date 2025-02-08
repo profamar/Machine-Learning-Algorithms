@@ -2,6 +2,9 @@
 
 Este repositório contém informações sobre os principais algoritmos de Machine Learning, suas aplicações e implementações.
 
+![Descrição da imagem](URL_da_imagem)
+
+
 ## 📊 Tabela Comparativa dos Algoritmos
 
 | Algoritmo                   | Tipo                  | Aplicações Principais |
